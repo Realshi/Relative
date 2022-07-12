@@ -1,0 +1,8 @@
+D:\RealshiProgects\Relative\Relative\bin\Debug\Relative.exe.config
+D:\RealshiProgects\Relative\Relative\bin\Debug\Relative.exe
+D:\RealshiProgects\Relative\Relative\bin\Debug\Relative.pdb
+D:\RealshiProgects\Relative\Relative\obj\Debug\Relative.csproj.AssemblyReference.cache
+D:\RealshiProgects\Relative\Relative\obj\Debug\Relative.csproj.SuggestedBindingRedirects.cache
+D:\RealshiProgects\Relative\Relative\obj\Debug\Relative.csproj.CoreCompileInputs.cache
+D:\RealshiProgects\Relative\Relative\obj\Debug\Relative.exe
+D:\RealshiProgects\Relative\Relative\obj\Debug\Relative.pdb
